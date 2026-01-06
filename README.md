@@ -80,7 +80,6 @@ The application runs locally in the browser and displays the Fitness Tracker use
 📈 Advantages
 
 Easy fitness monitoring
-
 Fast and lightweight frontend
 
 Scalable and maintainable code
